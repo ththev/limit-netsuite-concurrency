@@ -1,0 +1,8 @@
+{
+  "name": "limit-request-concurrency",
+  "version": "0.0.1",
+  "dependencies": {
+    "needle": "2.2.1",
+    "queue": "4.4.2"
+  }
+}
